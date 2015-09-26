@@ -1,0 +1,1 @@
+Every folder in expansionStratagy and randomStratagy have "README" file, it discribed how to complie source code and how to use it.
